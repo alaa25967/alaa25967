@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAd/coded-data.gif">
+<img width="270" align="right" src="https://media1.tenor.com/m/w2WYZuHWZw0AAAAd/coded-data.gif">
 
 <h3 align="center">
   Welcome to Alaa Nagy's profile!
@@ -8,20 +8,19 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Engineering%20Manager;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7C97F8&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
+- 🏢 I'm a Senior Engineering Manager @ Alexandria Electricity Distribution Company (AEDC).
+- 👨‍💻 As Senior Engineering Manager, I build high-velocity engineering teams that deliver 30% faster deployments while mentoring the next generation of power systems experts.     
+- 💬 Ask me about my experience with SQL (SYBASE), MySQL, Unix, Linux, VMware, Docker, Kubernetes (K8s) tools, DevOps, Site Reliability tools, CI, CD, or anything related to Relational databases.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at https://yousefdergham.vercel.app/ to see some of the projects I've worked on.
-
+  
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/yousefdergham" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-Alaa_Nagy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-nagy)
+<a href="https://t.me/Alaa Nagy" target="_blank"><img src="https://img.shields.io/badge/-alaa%20nagy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/yousefdergham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
