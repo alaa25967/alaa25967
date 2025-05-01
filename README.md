@@ -15,7 +15,7 @@
 
 - 🏢 I'm a Senior SCADA Systems Engineer | Database Architect | High-Availability Infrastructure @ Alexandria Electricity Distribution Company (AEDC).
   
-- 👨‍💻 As a Senior SCADA Systems Engineer, I build high-velocity engineering teams that deliver 30% faster deployments while mentoring the next generation of power systems experts.
+- 👨‍💻 As a Senior Engineer, I build high-velocity engineering teams that deliver 30% faster deployments while mentoring the next generation of power systems experts.
     
 - 💬 Ask me about my experience with SQL (SYBASE), MySQL, Unix, Linux, VMware, Docker, Kubernetes (K8s) tools, DevOps, Site Reliability tools, CI, CD, or anything related to Relational databases.
   
