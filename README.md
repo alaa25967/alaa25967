@@ -8,13 +8,15 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Engineering%20Manager;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7C97F8&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+SCADA+Systems+Engineer;Database+Architect;High+Availability+Infrastructure;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=70&color=7C97F8&vCenter=true&size=22">
+  </a>
+</p>
 
-- 🏢 I'm a Senior Engineering Manager @ Alexandria Electricity Distribution Company (AEDC).
-- 👨‍💻 As Senior Engineering Manager, I build high-velocity engineering teams that deliver 30% faster deployments while mentoring the next generation of power systems experts.     
+- 🏢 I'm a Senior SCADA Systems Engineer | Database Architect | High-Availability Infrastructure @ Alexandria Electricity Distribution Company (AEDC).
+- 👨‍💻 As a Senior SCADA Systems Engineer, I build high-velocity engineering teams that deliver 30% faster deployments while mentoring the next generation of power systems experts.     
 - 💬 Ask me about my experience with SQL (SYBASE), MySQL, Unix, Linux, VMware, Docker, Kubernetes (K8s) tools, DevOps, Site Reliability tools, CI, CD, or anything related to Relational databases.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- ⚡ Fun Fact: Drive the code to reach the best mode.
   
 
 ### Connect with Me :
